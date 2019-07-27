@@ -1,0 +1,35 @@
+body {
+  font: 300 18px;
+  margin: 0;
+  padding: 4em 6em 2em 1em;
+  text-align: center;
+}
+
+.calculator {
+  font-size: 40px;
+  margin: 0 auto;
+  width: 25%;
+}
+
+
+
+.result {
+
+  line-height: 3em;
+  /* float: right; */
+  text-align: right;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 63%;
+  height: 2em;
+}
+
+button {
+  border: 0;
+  font-size: 32px;
+  float: left;
+  margin: 5px;
+  width: 2em;
+  height: 2em;
+}
+
